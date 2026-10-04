@@ -1,0 +1,14 @@
+/Users/caden/A.Developer/JuniorMC/PLAY-IT/playit-agent/target/release/deps/thiserror-1fc994dda3635f54.d: /Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/lib.rs /Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/aserror.rs /Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/display.rs /Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/var.rs /Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/private.rs /Users/caden/A.Developer/JuniorMC/PLAY-IT/playit-agent/target/release/build/thiserror-b9208649fc6ecf7b/out/private.rs
+
+/Users/caden/A.Developer/JuniorMC/PLAY-IT/playit-agent/target/release/deps/libthiserror-1fc994dda3635f54.rlib: /Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/lib.rs /Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/aserror.rs /Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/display.rs /Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/var.rs /Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/private.rs /Users/caden/A.Developer/JuniorMC/PLAY-IT/playit-agent/target/release/build/thiserror-b9208649fc6ecf7b/out/private.rs
+
+/Users/caden/A.Developer/JuniorMC/PLAY-IT/playit-agent/target/release/deps/libthiserror-1fc994dda3635f54.rmeta: /Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/lib.rs /Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/aserror.rs /Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/display.rs /Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/var.rs /Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/private.rs /Users/caden/A.Developer/JuniorMC/PLAY-IT/playit-agent/target/release/build/thiserror-b9208649fc6ecf7b/out/private.rs
+
+/Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/lib.rs:
+/Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/aserror.rs:
+/Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/display.rs:
+/Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/var.rs:
+/Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/private.rs:
+/Users/caden/A.Developer/JuniorMC/PLAY-IT/playit-agent/target/release/build/thiserror-b9208649fc6ecf7b/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/caden/A.Developer/JuniorMC/PLAY-IT/playit-agent/target/release/build/thiserror-b9208649fc6ecf7b/out

@@ -1,0 +1,14 @@
+/Users/caden/A.Developer/JuniorMC/PLAY-IT/playit-agent/target/release/deps/serde-0a7a7e5286473073.d: /Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/caden/A.Developer/JuniorMC/PLAY-IT/playit-agent/target/release/build/serde-2e473e60bacdde22/out/private.rs
+
+/Users/caden/A.Developer/JuniorMC/PLAY-IT/playit-agent/target/release/deps/libserde-0a7a7e5286473073.rlib: /Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/caden/A.Developer/JuniorMC/PLAY-IT/playit-agent/target/release/build/serde-2e473e60bacdde22/out/private.rs
+
+/Users/caden/A.Developer/JuniorMC/PLAY-IT/playit-agent/target/release/deps/libserde-0a7a7e5286473073.rmeta: /Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/caden/A.Developer/JuniorMC/PLAY-IT/playit-agent/target/release/build/serde-2e473e60bacdde22/out/private.rs
+
+/Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/Users/caden/A.Developer/JuniorMC/PLAY-IT/playit-agent/target/release/build/serde-2e473e60bacdde22/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/caden/A.Developer/JuniorMC/PLAY-IT/playit-agent/target/release/build/serde-2e473e60bacdde22/out

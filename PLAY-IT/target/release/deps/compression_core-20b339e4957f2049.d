@@ -1,0 +1,10 @@
+/Users/caden/A.Developer/JuniorMC/PLAY-IT/playit-agent/target/release/deps/compression_core-20b339e4957f2049.d: /Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/compression-core-0.4.32/src/lib.rs /Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/compression-core-0.4.32/src/level.rs /Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/compression-core-0.4.32/src/unshared.rs /Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/compression-core-0.4.32/src/util.rs
+
+/Users/caden/A.Developer/JuniorMC/PLAY-IT/playit-agent/target/release/deps/libcompression_core-20b339e4957f2049.rlib: /Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/compression-core-0.4.32/src/lib.rs /Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/compression-core-0.4.32/src/level.rs /Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/compression-core-0.4.32/src/unshared.rs /Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/compression-core-0.4.32/src/util.rs
+
+/Users/caden/A.Developer/JuniorMC/PLAY-IT/playit-agent/target/release/deps/libcompression_core-20b339e4957f2049.rmeta: /Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/compression-core-0.4.32/src/lib.rs /Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/compression-core-0.4.32/src/level.rs /Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/compression-core-0.4.32/src/unshared.rs /Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/compression-core-0.4.32/src/util.rs
+
+/Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/compression-core-0.4.32/src/lib.rs:
+/Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/compression-core-0.4.32/src/level.rs:
+/Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/compression-core-0.4.32/src/unshared.rs:
+/Users/caden/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/compression-core-0.4.32/src/util.rs:
