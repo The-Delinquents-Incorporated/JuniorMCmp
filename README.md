@@ -1,4 +1,4 @@
-# Creators:
+# Creators
 - Dutch
 - Manture
 
