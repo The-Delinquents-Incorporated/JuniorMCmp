@@ -1,0 +1,63 @@
+{
+  "enablePrediction": {
+    // Enables predictive chunkloading, which predicts player movement and preloads an area in movement direction: 
+    // Default:true
+    "enablePrediction": true
+  },
+
+  "predictionLoadingSpeed": {
+    // Set a modifier to prediction area loading speed, increasing the value increases the speed at which chunks load around the player.
+    // Note that faster loading also means higher impact on TPS. range: [0.01 -> 10.0], 
+    // Default: 1.0
+    "predictionLoadingSpeed": 1.0
+  },
+
+  "predictionarea": {
+    // Size of the area marked for preloading: 
+    // Default:7 chunks, max: 32, min: 2
+    "predictionarea": 7
+  },
+
+  "enableSmartChunkLoading": {
+    // Enables smart chunkloading around the player, which dynamically loads the around the player : 
+    // Default:true
+    "enableSmartChunkLoading": true
+  },
+
+  "smartChunkLoadingSpeed": {
+    // Set a modifier to smart chunkloading speed, increasing the value increases the speed at which chunks load around the player.
+    // Note that faster loading also means higher impact on TPS. range: [0.01 -> 10.0], 
+    // Default: 1.0
+    "smartChunkLoadingSpeed": 1.0
+  },
+
+  "preventWalkUnloaded": {
+    // Prevents players from moving into unloaded areas on serverside, which stalls the server and forceloads the chunk: 
+    // Default:true
+    "preventWalkUnloaded": true
+  },
+
+  "enableSmartPostProcessing": {
+    // Enables smart post processing, which slightly improves the general chunk loading speed by waiting with post processing(e.g. fluid updates) until neighbouring chunks are loaded: 
+    // Default:true
+    "enableSmartPostProcessing": true
+  },
+
+  "enableFasterChunkTasks": {
+    // Enables faster worldgen tasks: 
+    // Default:false
+    "enableFasterChunkTasks": false
+  },
+
+  "optimizeWaiting": {
+    // Optimizes time the world is stalled while waiting for a chunk: 
+    // Default:true
+    "optimizeWaiting": true
+  },
+
+  "debugLogging": {
+    // Enables debug logging to show chunk loading changes: 
+    // Default:false
+    "debugLogging": false
+  }
+}

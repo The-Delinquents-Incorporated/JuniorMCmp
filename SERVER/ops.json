@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "uuid": "4443a862-e04e-4144-ad30-b9952816bea4",
+    "name": "I_4M_DUTCH",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "cb8f6e70-cb6b-4e0f-979e-6aa5b01dc9bd",
+    "name": "MantureYT",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
