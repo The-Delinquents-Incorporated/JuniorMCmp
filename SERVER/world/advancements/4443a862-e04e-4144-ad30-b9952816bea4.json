@@ -3518,81 +3518,51 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/stone_bricks": {
+  "minecraft:recipes/misc/nether_brick": {
     "criteria": {
-      "has_stone": "2026-10-05 05:54:25 -0700"
+      "has_netherrack": "2026-10-05 05:45:31 -0700"
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/storage_stack_upgrade_tier_1_plus_from_backpack_stack_upgrade_starter_tier": {
+  "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
-      "has_backpack_stack_upgrade": "2026-10-05 06:01:42 -0700"
+      "has_quartz": "2026-10-05 05:45:35 -0700"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
+  "minecraft:recipes/building_blocks/granite": {
     "criteria": {
-      "has_upgrade_base": "2026-10-05 05:59:47 -0700"
+      "has_quartz": "2026-10-05 05:45:35 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+  "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
-      "has_stone": "2026-10-05 05:54:25 -0700"
+      "has_quartz": "2026-10-05 05:45:35 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_slab": {
+  "minecraft:recipes/redstone/comparator": {
     "criteria": {
-      "has_stone": "2026-10-05 05:54:25 -0700"
+      "has_quartz": "2026-10-05 05:45:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2026-10-05 05:45:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2026-10-05 05:45:35 -0700"
     },
     "done": true
   },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2026-10-05 05:47:31 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_coal_block": "2026-10-05 05:55:40 -0700"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
-    "criteria": {
-      "has_pickup_upgrade": "2026-10-05 05:59:58 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2026-10-05 06:01:35 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2026-10-05 05:48:02 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2026-10-05 05:54:25 -0700"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-10-05 05:59:47 -0700"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/storage_pickup_upgrade_from_backpack_pickup_upgrade": {
-    "criteria": {
-      "has_backpack_upgrade": "2026-10-05 05:59:58 -0700"
     },
     "done": true
   },
@@ -3608,99 +3578,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-10-05 05:59:47 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_button": {
-    "criteria": {
-      "has_stone": "2026-10-05 05:54:25 -0700"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-10-05 05:59:47 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper": {
-    "criteria": {
-      "has_copper_block": "2026-10-05 06:01:35 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_pressure_plate": {
-    "criteria": {
-      "has_stone": "2026-10-05 05:54:25 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2026-10-05 05:45:35 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2026-10-05 05:47:31 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite": {
-    "criteria": {
-      "has_quartz": "2026-10-05 05:45:35 -0700"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
-    "criteria": {
-      "has_diamond_backpack": "2026-10-05 06:00:48 -0700"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
-    "criteria": {
-      "has_upgrade_base": "2026-10-05 05:59:47 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
-    "criteria": {
-      "has_copper_block": "2026-10-05 06:01:35 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_block": {
-    "criteria": {
-      "has_quartz": "2026-10-05 05:45:35 -0700"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/void_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-10-05 05:59:47 -0700"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-10-05 05:59:47 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/comparator": {
-    "criteria": {
-      "has_quartz": "2026-10-05 05:45:35 -0700"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/roasted_mutton_chops": {
-    "criteria": {
-      "has_mutton": "2026-10-05 05:57:38 -0700"
     },
     "done": true
   },
@@ -3716,15 +3596,255 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/refill_upgrade": {
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2026-10-05 05:47:31 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-10-05 05:47:31 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-10-05 05:47:31 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-10-05 05:47:31 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-10-05 05:47:31 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-10-05 05:47:31 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2026-10-05 05:47:31 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-10-05 05:47:31 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-10-05 05:47:31 -0700"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/decorations/blackstone_furnace": {
+    "criteria": {
+      "has_blackstone": "2026-10-05 05:47:31 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-10-05 05:47:31 -0700"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_rod_nether": {
+    "criteria": {
+      "gobber2_rod_nether": "2026-10-05 05:47:44 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2026-10-05 05:48:02 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2026-10-05 05:48:02 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2026-10-05 05:52:57 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2026-10-05 05:54:25 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-10-05 05:54:25 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2026-10-05 05:54:25 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-10-05 05:54:25 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2026-10-05 05:54:25 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2026-10-05 05:54:25 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2026-10-05 05:54:25 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2026-10-05 05:54:25 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2026-10-05 05:54:25 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-10-05 05:54:25 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-10-05 05:54:25 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-10-05 05:54:25 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-10-05 05:54:25 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-10-05 05:54:25 -0700"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_link": {
+    "criteria": {
+      "has_repeater": "2026-10-05 05:55:28 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2026-10-05 05:55:40 -0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2026-10-05 05:57:38 -0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2026-10-05 05:57:38 -0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2026-10-05 05:57:38 -0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
     "criteria": {
       "has_upgrade_base": "2026-10-05 05:59:47 -0700"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1_from_starter": {
+  "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
     "criteria": {
-      "has_stack_upgrade_starter_tier": "2026-10-05 06:01:42 -0700"
+      "has_upgrade_base": "2026-10-05 05:59:47 -0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-10-05 05:59:47 -0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-10-05 05:59:47 -0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2026-10-05 05:59:47 -0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-10-05 05:59:47 -0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-10-05 05:59:47 -0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/refill_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-10-05 05:59:47 -0700"
     },
     "done": true
   },
@@ -3752,45 +3872,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blackstone_slab": {
-    "criteria": {
-      "has_blackstone": "2026-10-05 05:47:31 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2026-10-05 05:47:31 -0700"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
     "criteria": {
       "has_upgrade_base": "2026-10-05 05:59:47 -0700"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/shepherds_pie_block": {
-    "criteria": {
-      "has_cooked_mutton": "2026-10-05 05:57:38 -0700"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
     "criteria": {
       "has_upgrade_base": "2026-10-05 05:59:47 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2026-10-05 05:45:31 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs": {
-    "criteria": {
-      "has_stone": "2026-10-05 05:54:25 -0700"
     },
     "done": true
   },
@@ -3806,12 +3896,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2026-10-05 05:47:31 -0700"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2026-10-05 05:59:47 -0700"
@@ -3821,18 +3905,6 @@
   "sophisticatedbackpacks:recipes/misc/chipped/carpenters_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2026-10-05 05:59:47 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2026-10-05 05:48:02 -0700"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/storage_link": {
-    "criteria": {
-      "has_repeater": "2026-10-05 05:55:28 -0700"
     },
     "done": true
   },
@@ -3866,33 +3938,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stonecutter": {
-    "criteria": {
-      "has_stone": "2026-10-05 05:54:25 -0700"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2026-10-05 05:59:47 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone": {
-    "criteria": {
-      "has_stone": "2026-10-05 05:54:25 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2026-10-05 06:01:35 -0700"
-    },
-    "done": true
-  },
-  "gobber2:gobber2_rod_nether": {
-    "criteria": {
-      "gobber2_rod_nether": "2026-10-05 05:47:44 -0700"
     },
     "done": true
   },
@@ -3902,39 +3950,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2026-10-05 05:47:31 -0700"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/mob_catcher_upgrade": {
     "criteria": {
       "has_upgrade_base": "2026-10-05 05:59:47 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2026-10-05 05:47:31 -0700"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
     "criteria": {
       "has_upgrade_base": "2026-10-05 05:59:47 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2026-10-05 05:54:25 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/daylight_detector": {
-    "criteria": {
-      "has_quartz": "2026-10-05 05:45:35 -0700"
     },
     "done": true
   },
@@ -3962,81 +3986,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/observer": {
-    "criteria": {
-      "has_quartz": "2026-10-05 05:45:35 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2026-10-05 05:54:25 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot": {
-    "criteria": {
-      "has_copper_block": "2026-10-05 06:01:35 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2026-10-05 05:54:25 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2026-10-05 05:52:57 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2026-10-05 05:47:31 -0700"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier_to_tier_1_conversion": {
-    "criteria": {
-      "has_stack_upgrade_starter_tier": "2026-10-05 06:01:42 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2026-10-05 05:54:25 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone": {
-    "criteria": {
-      "has_blackstone": "2026-10-05 05:47:31 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
-    "criteria": {
-      "has_stone": "2026-10-05 05:54:25 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2026-10-05 05:47:31 -0700"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2026-10-05 05:59:47 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2026-10-05 05:47:31 -0700"
     },
     "done": true
   },
@@ -4046,33 +3998,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/mutton_wrap": {
-    "criteria": {
-      "has_mutton": "2026-10-05 05:57:38 -0700"
-    },
-    "done": true
-  },
-  "nethersdelight:recipes/decorations/blackstone_furnace": {
-    "criteria": {
-      "has_blackstone": "2026-10-05 05:47:31 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/raw_iron": {
-    "criteria": {
-      "has_raw_iron_block": "2026-10-05 06:08:14 -0700"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
     "criteria": {
       "has_upgrade_base": "2026-10-05 05:59:47 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2026-10-05 06:01:35 -0700"
     },
     "done": true
   },
@@ -4088,15 +4016,201 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+  "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
     "criteria": {
-      "has_blackstone": "2026-10-05 05:47:31 -0700"
+      "has_pickup_upgrade": "2026-10-05 05:59:58 -0700"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_pickup_upgrade_from_backpack_pickup_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2026-10-05 05:59:58 -0700"
     },
     "done": true
   },
   "sophisticatedbackpacks:recipes/misc/advanced_pickup_upgrade": {
     "criteria": {
       "has_pickup_upgrade": "2026-10-05 05:59:58 -0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2026-10-05 06:00:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2026-10-05 06:01:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2026-10-05 06:01:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2026-10-05 06:01:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2026-10-05 06:01:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2026-10-05 06:01:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2026-10-05 06:01:35 -0700"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_stack_upgrade_tier_1_plus_from_backpack_stack_upgrade_starter_tier": {
+    "criteria": {
+      "has_backpack_stack_upgrade": "2026-10-05 06:01:42 -0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1_from_starter": {
+    "criteria": {
+      "has_stack_upgrade_starter_tier": "2026-10-05 06:01:42 -0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier_to_tier_1_conversion": {
+    "criteria": {
+      "has_stack_upgrade_starter_tier": "2026-10-05 06:01:42 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2026-10-05 06:08:14 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2026-10-10 11:37:45 -0700"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_hoe_repairing": {
+    "criteria": {
+      "has_diamond_hoe": "2026-10-10 11:39:28 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2026-10-10 11:49:28 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2026-10-10 11:50:11 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2026-10-10 11:37:45 -0700"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2026-10-10 11:41:29 -0700"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2026-10-10 12:04:56 -0700"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2026-10-10 11:49:31 -0700"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2026-10-10 11:49:30 -0700"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2026-10-10 11:31:39 -0700"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_leggings_repairing": {
+    "criteria": {
+      "has_diamond_leggings": "2026-10-10 11:49:28 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2026-10-10 12:14:34 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2026-10-10 11:37:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2026-10-10 11:40:02 -0700"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/backpack_crafting_upgrade_from_storage_crafting_upgrade": {
+    "criteria": {
+      "has_storage_upgrade": "2026-10-10 12:24:13 -0700"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_tool": {
+    "criteria": {
+      "has_redstone_torch": "2026-10-10 12:04:56 -0700"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_link_from_controller": {
+    "criteria": {
+      "has_controller": "2026-10-10 12:20:52 -0700"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2026-10-10 11:49:28 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2026-10-10 11:40:02 -0700"
     },
     "done": true
   },
